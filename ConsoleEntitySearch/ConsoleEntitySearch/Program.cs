@@ -42,7 +42,8 @@ namespace ConsoleEntitySearch
             {
                 //var webData = await client.Web.SearchAsync(query: "Yosemite National Park");
                 var webData = await client.Web.SearchAsync(query: "BRADESCO");
-                Console.WriteLine("Searching for \"Yosemite National Park\"");
+                Console.WriteLine(string.Format("Searching for '{0}':", webData.QueryContext.OriginalQuery));
+                
 
                 // Code for handling responses is provided in the next section...
 
