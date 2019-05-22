@@ -1,6 +1,15 @@
 # entitysearch
 Busca por entidade Google e Bing
 
-Nome do recurso no Azure: resource2bingsearch
+Foram criados 2 recursos "Cognitive Services" no Azure, 1 para Entity Search e outro para Web Search.
+
+O Web Search faz uma busca simples, retornando informações e links sobre a query;
+
+O Entity Search consegue identificar a query como um objeto, entidade, onde fornece informações mais precisas sobre aquilo. O problema é que a busca precisa ser de um objeto conhecido. Caso contrário, ele não retorna objeto algum.
+
+
+Nome do recurso no Azure para **Web Search**: resource2bingsearch
+
+Nome do recurso no Azure para **Entity Search**: buscaentidade
 
 Endpoint: https://eastus2.api.cognitive.microsoft.com/
