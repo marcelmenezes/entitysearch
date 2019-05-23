@@ -15,3 +15,8 @@ Endpoint do Web Search: https://eastus2.api.cognitive.microsoft.com/
 Nome do recurso no Azure para **Entity Search**: buscaentidade
 
 
+
+
+## Outras API's de busca por entidade:
+### DuckDuckGo:
+https://api.duckduckgo.com/?q=Banco%20do%20brasil&format=json
