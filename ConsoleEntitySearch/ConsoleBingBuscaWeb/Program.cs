@@ -18,7 +18,7 @@ namespace ConsoleBingBuscaWeb
          */
         const string uriBase = "https://eastus2.api.cognitive.microsoft.com/bing/v7.0/search";
         //const string searchTerm = "Microsoft Cognitive Services";
-        const string searchTerm = "BANCO BMG S/A- ";
+        const string searchTerm = "banco do brasil seguros";
 
         static void Main(string[] args)
         {

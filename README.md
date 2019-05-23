@@ -18,7 +18,7 @@ Nome do recurso no Azure para **Entity Search**: buscaentidade
 
 
 ## Outras API's de busca por entidade:
-### DuckDuckGo:
+### DuckDuckGo Instant Answer API:
 https://api.duckduckgo.com/?q=Banco%20do%20brasil&format=json
 
 
@@ -28,3 +28,4 @@ https://kgsearch.googleapis.com/v1/entities:search?query=Facebook&key=AIzaSyBmuj
 - Para este, foi habilitado no projeto **TreinoNuvem** a consulta a esta API em específico do Google.
 Existem outras API's disponíveis no Google, por exemplo 'Cloud Machine Learning Engine', ver em:
 https://console.developers.google.com/apis/dashboard?hl=pt-br&project=treinonuvem
+
