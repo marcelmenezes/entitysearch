@@ -22,5 +22,9 @@ Nome do recurso no Azure para **Entity Search**: buscaentidade
 https://api.duckduckgo.com/?q=Banco%20do%20brasil&format=json
 
 
-### Google Knowledge Search:
+### Google Knowledge Graph Search API:
 https://kgsearch.googleapis.com/v1/entities:search?query=Facebook&key=AIzaSyBmujT4B-OlmSbq8sy6yvVyzda8rmvXDXw&indent=True&languages=pt
+
+- Para este, foi habilitado no projeto **TreinoNuvem** a consulta a esta API em específico do Google.
+Existem outras API's disponíveis no Google, por exemplo 'Cloud Machine Learning Engine', ver em:
+https://console.developers.google.com/apis/dashboard?hl=pt-br&project=treinonuvem
