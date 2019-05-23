@@ -10,6 +10,8 @@ O Entity Search consegue identificar a query como um objeto, entidade, onde forn
 
 Nome do recurso no Azure para **Web Search**: resource2bingsearch
 
+Endpoint do Web Search: https://eastus2.api.cognitive.microsoft.com/
+
 Nome do recurso no Azure para **Entity Search**: buscaentidade
 
-Endpoint: https://eastus2.api.cognitive.microsoft.com/
+
