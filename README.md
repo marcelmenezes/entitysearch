@@ -20,3 +20,7 @@ Nome do recurso no Azure para **Entity Search**: buscaentidade
 ## Outras API's de busca por entidade:
 ### DuckDuckGo:
 https://api.duckduckgo.com/?q=Banco%20do%20brasil&format=json
+
+
+### Google Knowledge Search:
+https://kgsearch.googleapis.com/v1/entities:search?query=Facebook&key=AIzaSyBmujT4B-OlmSbq8sy6yvVyzda8rmvXDXw&indent=True&languages=pt
